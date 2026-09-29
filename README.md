@@ -45,7 +45,7 @@ VERIFICAÇÃO DA EFICÁCIA
 
 ---
 
-## 🏭 Exemplo de análise
+## Exemplo de análise
 
 ### Atividade
 
